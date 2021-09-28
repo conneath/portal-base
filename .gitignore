@@ -1,0 +1,22 @@
+game/server/Release_portal
+game/client/Release_portal
+game/server/Release_portal/*
+game/client/Release_portal/*
+Built_game/*
+
+# lets hope this wont break everything
+*.sdf
+*.sln
+*.suo
+*.tlog
+*.dll
+*.obj
+*.ipch
+*.pdb
+*.vcxproj
+*.filters
+*.vpc_crc
+*.opensdf
+*.lastbuildstate
+*.log
+*.lib
